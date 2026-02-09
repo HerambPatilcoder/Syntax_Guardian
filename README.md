@@ -1,5 +1,6 @@
 # Syntax Guardian 🛡️
 
+
 > An AI-powered Code Quality Intelligence Agent that analyzes repositories and generates actionable, developer-friendly reports.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
